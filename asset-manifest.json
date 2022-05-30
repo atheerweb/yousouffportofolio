@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yousouffportofolio/static/css/main.35ecc832.css",
+    "main.css": "/yousouffportofolio/static/css/main.0e65231a.css",
     "main.js": "/yousouffportofolio/static/js/main.bc1a8211.js",
     "static/media/profilepicture.jpg": "/yousouffportofolio/static/media/profilepicture.3709787b419e3aed4207.jpg",
     "static/media/alroaa.svg": "/yousouffportofolio/static/media/alroaa.705d6565beaff24d1b42.svg",
@@ -15,11 +15,11 @@
     "static/media/nuxt.svg": "/yousouffportofolio/static/media/nuxt.bfb5c3622529aa8edbedbb11c8de3b3b.svg",
     "static/media/facebook.svg": "/yousouffportofolio/static/media/facebook.9781020149899870b7fb6b3f1f88a9e4.svg",
     "static/media/vuejs.svg": "/yousouffportofolio/static/media/vuejs.9425601ccf95f0de43b99e91df3cc184.svg",
-    "main.35ecc832.css.map": "/yousouffportofolio/static/css/main.35ecc832.css.map",
+    "main.0e65231a.css.map": "/yousouffportofolio/static/css/main.0e65231a.css.map",
     "main.bc1a8211.js.map": "/yousouffportofolio/static/js/main.bc1a8211.js.map"
   },
   "entrypoints": [
-    "static/css/main.35ecc832.css",
+    "static/css/main.0e65231a.css",
     "static/js/main.bc1a8211.js"
   ]
 }
